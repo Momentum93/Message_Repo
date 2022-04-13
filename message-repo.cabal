@@ -27,3 +27,5 @@ Library
                     , binary
   exposed-modules:  
           Message.Foo
+          Message.Foo2
+          Foo3

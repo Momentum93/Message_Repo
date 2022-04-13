@@ -19,3 +19,5 @@ data Payload =
     deriving anyclass Binary
     deriving Show
     deriving Eq
+
+foo1 = print "foo1"
