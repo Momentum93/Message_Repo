@@ -1,6 +1,8 @@
 cabal-version:      2.4
 name:               message-repo
 version:            0.1.0.0
+Cabal-version:          >= 1.6
+Build-type:         Simple
 
 -- A short (one-line) description of the package.
 -- synopsis:
