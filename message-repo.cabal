@@ -19,7 +19,8 @@ maintainer:         thomas-meyer@online.de
 -- A copyright notice.
 -- copyright:
 -- category:
-extra-source-files: CHANGELOG.md
+
 Library
 
   build-depends:    base ^>=4.14.3.0
+  exposed-modules: Folder1.Foo1
