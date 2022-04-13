@@ -23,5 +23,7 @@ maintainer:         thomas-meyer@online.de
 
 Library
 
-  build-depends:    base ^>=4.14.3.0
-  exposed-modules: Folder1.Foo1
+  build-depends:      base ^>=4.14.3.0
+                    , binary
+  exposed-modules:  
+          Folder1.Foo1
